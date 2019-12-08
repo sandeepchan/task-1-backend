@@ -1,3 +1,3 @@
 # task-1-backend
-npm i
+npm i,
 create database 
